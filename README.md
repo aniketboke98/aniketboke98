@@ -60,7 +60,3 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketboke98&show_icons=true&locale=en" alt="aniketboke98" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketboke98" alt="aniketboke98" />
-</p>
